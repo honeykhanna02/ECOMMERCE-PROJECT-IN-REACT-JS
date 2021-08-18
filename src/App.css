@@ -1,0 +1,50 @@
+/* Products */
+
+.cards {
+  display: inline-block;
+  padding: 10px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.price {
+  font-weight: 450;
+}
+.mrp {
+  font-size: 13px;
+  font-weight: 400;
+  text-decoration: line-through;
+  color: grey;
+  padding-left: 5px;
+}
+.discount {
+  font-size: 12px;
+  font-weight: 400;
+  color: indianred;
+  padding-left: 5px;
+}
+.card-title {
+  height: 65px;
+}
+
+/* Navbar */
+
+.search {
+  width: 500px;
+  background-color: hsl(240, 41%, 97%);
+}
+.profilelogo,
+.wishlistlogo,
+.baglogo {
+  margin-left: 82px;
+}
+.profilename,
+.wishlistname {
+  margin-left: 70px;
+}
+.bagname {
+  margin-left: 75px;
+}
+.navbar {
+  box-shadow: 1px 1px 6px grey;
+}
+
